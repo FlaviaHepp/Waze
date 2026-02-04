@@ -1,6 +1,3 @@
-# Waze
-Uso de Waze
-
 # Predicción de abandono de usuarios en Waze (Churn Analysis)
 
 Este proyecto aborda un **problema de machine learning supervisado**: la predicción de abandono de usuarios (*churn*) en la aplicación Waze, a partir de patrones de uso y comportamiento.
